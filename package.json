@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-parallax-3d": "^1.0.1",
+    "react-scripts": "1.1.4",
+    "styled-components": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
